@@ -1,4 +1,5 @@
 import ReactDOM from 'react-dom';
+import './App.css';
 
 function ComponentTest () {
     return (
